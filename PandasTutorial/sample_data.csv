@@ -1,0 +1,10 @@
+id,name,age,gender,email,salary,join_date
+1, Alice ,25,F,alice@gmail.com,50000,2022-01-10
+2,Bob, ,M,bob@gmail.com,60000,2021-05-20
+3,Charlie,30,M,charlie@gmail.com,70000,2020-03-15
+4,Alice ,25,F,alice@gmail.com,50000,2022-01-10
+5,David,-5,M,,45000,2023-02-01
+6,Eva,28,F,eva@gmail,80000,not_a_date
+7,Frank,40,M,frank@gmail.com,,2019-11-11
+8,Grace,35,F,grace@gmail.com,75000,2021-07-22
+9,Hannah,29,F,hannah@gmail.com,65000,2022-11-30
